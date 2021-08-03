@@ -10,7 +10,7 @@ Certified in Prince2 project management, Agile Scrum Foundation and Lean Six Sig
 
 Check out my LinkedIn profile:
 
-<a href="https://www.linkedin.com/in/mikki-kowal-819ab853"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/michael-kowal-819ab853"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!--
 **MikkiPM/MikkiPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
